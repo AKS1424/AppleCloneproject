@@ -1953,12 +1953,10 @@ margin-bottom: 10px;
   }
 }
 
-/* Media query for screens that are 1024px or larger (for desktop) */
+/* Media query for screens that are 1024px or larger (for desktop)
 @media (min-width: 1024px) {
   .comparison {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
   }
 
   .iphone-info {
@@ -1976,7 +1974,7 @@ margin-bottom: 10px;
   .network {
     width: 25%;
   }
-}
+} */
 
 
 @media (max-width: 1240px) {
